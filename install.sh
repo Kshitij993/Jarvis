@@ -2,7 +2,7 @@
 set -euo pipefail
 
 echo "============================================================"
-echo " Robotics Project - Linux Installer"
+echo " Jarvis - Linux Installer"
 echo "============================================================"
 echo ""
 

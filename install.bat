@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 echo ============================================================
-echo  Robotics Project - Windows Installer
+echo  Jarvis - Windows Installer
 echo ============================================================
 echo.
 
