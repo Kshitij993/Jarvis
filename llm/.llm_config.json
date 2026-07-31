@@ -1,0 +1,6 @@
+{
+  "provider": "custom",
+  "api_key": "ob_GPqXlVDLzcMEkhbUNkMFVWz4KkiiJYyQB4CjEn9IuLu2W5at",
+  "api_url": "https://openbridgeai.kshitijks.com/api/v1/chat/completions",
+  "system_prompt": "You are Jarvis, a smart and friendly AI assistant. Be concise and helpful."
+}
