@@ -1,4 +1,4 @@
-# Robotics Project
+# Jarvis
 
 Real-time computer vision, speech, and AI assistant scripts using MediaPipe, OpenCV, PyAudio, Vosk, and InsightFace.
 
